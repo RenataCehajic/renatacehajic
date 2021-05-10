@@ -26,7 +26,7 @@ In February 2021, I joined a coding bootcamp at [Codaisseur](https://codaisseur.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img align="left" alt="HTML5" title="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a> <br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a>
 
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://camo.githubusercontent.com/4112948ca937900fbcd0eb4a0ed71f8672399586f4614ef7119268d079207878/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d342e737667" /> </a> <br />
 
