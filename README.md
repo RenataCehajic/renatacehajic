@@ -30,7 +30,7 @@ In February 2021, I joined a coding bootcamp at [Codaisseur](https://codaisseur.
 
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://camo.githubusercontent.com/4112948ca937900fbcd0eb4a0ed71f8672399586f4614ef7119268d079207878/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d342e737667" /> </a> <br />
 
-## Feel free to connect with me!
+### Feel free to connect with me!
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 📫 sendtopow@gmail.com
