@@ -33,6 +33,6 @@ In February 2021, I joined a coding bootcamp at [Codaisseur](https://codaisseur.
 ### Feel free to connect with me!
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-📫 sendtorenatacehajic@gmail.com
+Email: renata.cehajic@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/renata-cehajic-49712630/
